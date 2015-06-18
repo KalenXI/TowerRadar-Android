@@ -1,0 +1,33 @@
+<resources>
+        <string name="title_activity_settings">Select Tower</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string-array name="pref_search_radius_titles">
+        <item>5 km</item>
+        <item>10 km</item>
+        <item>15 km</item>
+        <item>20 km</item>
+        <item>25 km</item>
+        <item>50 km</item>
+        <item>75 km</item>
+        <item>100 km</item>
+        <item>200 km</item>
+        <item>300 km</item>
+    </string-array>
+    <string-array name="pref_search_radius_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>50</item>
+        <item>75</item>
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+    </string-array>
+</resources>

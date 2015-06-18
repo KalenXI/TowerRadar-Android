@@ -1,0 +1,13 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Preference android:title="TV Stations">
+        <intent android:action=".TowerSearch.TV_Stations" />
+    </Preference>
+    <Preference android:title="FM Stations">
+        <intent android:action=".TowerSearch.FM_Stations" />
+    </Preference>
+    <Preference android:title="AM Stations">
+        <intent android:action=".TowerSearch.AM_Stations" />
+    </Preference>
+
+</PreferenceScreen>

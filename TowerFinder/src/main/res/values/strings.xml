@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tower Finder</string>
+    <string name="action_settings">Select Tower</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_tower_search">lol</string>
+
+    <string-array name="TowerSearchList">
+        <item>Loading Data...</item>
+    </string-array>
+
+</resources>
